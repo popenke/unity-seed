@@ -27,4 +27,6 @@ From this seed you'll get:
 
 - Unity blank project.
 - Git LFS support.
-- A good license.
+
+## License
+This project is under [MIT License](https://choosealicense.com/licenses/mit/)
