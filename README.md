@@ -1,3 +1,5 @@
+[![GitHub version](https://badge.fury.io/gh/popenke%2Funity-seed.svg)](https://badge.fury.io/gh/popenke%2Funity-seed)
+
 # Unity Seed
 An ever updated Unity seed to start your projects 🌱
 
