@@ -4,7 +4,9 @@ An ever updated Unity seed to start your projects 🌱
 ## About
 This project aims to maintain a Unity blank project with Git and Git LFS already set up. You can use it for a game jam, personal projects or even commercially. Just fork it and start your next groundbreaking game!
 
-From this seed you'll get:
+## Support
+### Unity
+The Unity version of this project is: **`5.5.2f1`**
 
 ### Editors
 
@@ -23,10 +25,10 @@ From this seed you'll get:
 | macOS        |
 | Windows      |
 
-## Upcoming
+## Special thanks
 
-- Unity blank project.
-- Git LFS support.
+### @mikalcf
+For helping me with the idea and setting up Unity project for this purpose.
 
 ## License
 This project is under [MIT License](https://choosealicense.com/licenses/mit/).
