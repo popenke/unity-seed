@@ -25,5 +25,6 @@ From this seed you'll get:
 
 ## Upcoming
 
+- Unity blank project.
 - Git LFS support.
 - A good license.
