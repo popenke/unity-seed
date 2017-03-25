@@ -29,4 +29,4 @@ From this seed you'll get:
 - Git LFS support.
 
 ## License
-This project is under [MIT License](https://choosealicense.com/licenses/mit/)
+This project is under [MIT License](https://choosealicense.com/licenses/mit/).
