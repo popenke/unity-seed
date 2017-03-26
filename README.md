@@ -7,11 +7,13 @@ An ever updated Unity seed to start your projects 🌱
 This project aims to maintain a Unity blank project with Git and Git LFS already set up. You can use it for a game jam, personal projects or even commercially. Just fork it and start your next groundbreaking game!
 
 ## Usage
-Clone this repository and install **Git LFS** on it.
+Fork or clone this repository and install **Git LFS** on it.
 
 ```shell
 $ git lfs install
 ```
+Change the name of the folder `unity-seed` to the name of your project and open it in Unity.
+
 Now you're ready to go.
 
 ## Support
