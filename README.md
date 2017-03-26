@@ -1,7 +1,7 @@
 [![GitHub version](https://badge.fury.io/gh/popenke%2Funity-seed.svg)](https://badge.fury.io/gh/popenke%2Funity-seed)
 
 # Unity Seed
-An ever updated Unity seed to start your projects 🌱
+An (ever) updated Unity seed to start your projects 🌱
 
 ## About
 This project aims to maintain a Unity blank project with Git and Git LFS already set up. You can use it for a game jam, personal projects or even commercially. Just fork it and start your next groundbreaking game!
