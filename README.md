@@ -18,7 +18,9 @@ Now you're ready to go.
 
 ## Support
 ### Unity
-The Unity version of this project is: **`5.5.2f1`**
+The Unity version of this project is: **`5.5.2f1`**.
+
+Look for old Unity project versions at [releases page](https://github.com/popenke/unity-seed/releases).
 
 ### Editors
 
