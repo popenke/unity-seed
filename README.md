@@ -14,11 +14,11 @@ $ git lfs install
 ```
 Change the name of the folder `unity-seed` to the name of your project and open it in Unity.
 
-Now you're ready to go.
+Now, 136 KB later, you're ready to go.
 
 ## Support
 ### Unity
-The Unity version of this project is: **`5.5.2f1`**.
+The Unity version of this project is: **`5.6.0f3`**.
 
 Look for old Unity project versions at [releases page](https://github.com/popenke/unity-seed/releases).
 
