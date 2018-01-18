@@ -12,13 +12,13 @@ Fork or clone this repository and install **Git LFS** on it.
 ```shell
 $ git lfs install
 ```
-Change the name of the folder `unity-seed` to the name of your project and open it in Unity.
+Change the name of the folder `unity-seed` to the name of your project and open it in Unity. You also need to change the remote URL of Git to match your repository.
 
 Now, 136 KB later, you're ready to go.
 
 ## Support
 ### Unity
-The Unity version of this project is: **`5.6.0f3`**.
+The Unity version of this project is: **`2017.3.0f3`**.
 
 Look for old Unity project versions at [releases page](https://github.com/popenke/unity-seed/releases).
 
