@@ -120,6 +120,8 @@ test-results/
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
+/Assets/Plugins/GitHub.meta
+/Assets/Plugins/GitHub/
 
 # Visual Studio 2015 cache directory
 /.vs/
