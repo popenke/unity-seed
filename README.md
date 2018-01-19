@@ -39,6 +39,12 @@ Look for old Unity project versions at [releases page](https://github.com/popenk
 | macOS        |
 | Windows      |
 
+### Plugins
+
+| Supported plugins |
+|-------------------|
+| GitHub for Unity  |
+
 ## Special thanks
 
 ### @mikalcf
